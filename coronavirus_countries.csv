@@ -1,0 +1,177 @@
+"country_id","country_name","country_name_es","continent","rank_by_continent","rank_all","population","confirmed","death","recovered"
+afghanistan,Afghanistan,Afganistán,Asia,24,70,38928341,56854,1733,6657
+albania,Albania,Albania,Europe,40,94,2877800,25233,1098,13241
+algeria,Algeria,Argelia,Africa,4,56,43851043,117651,13766,43891
+andorra,Andorra,Andorra,Europe,39,90,43851043,28636,1366,10189
+angola,Angola,Angola,Africa,42,154,32866268,978,84,229
+antigua_and_barbuda,Antigua and Barbuda,Antigua y Barbuda,North America,16,155,97928,903,89,264
+argentina,Argentina,Argentina,South America,6,53,45195777,131798,6058,33790
+armenia,Armenia,Armenia,Europe,28,66,2963234,64413,888,22330
+australia,Australia,Australia,Oceania,1,38,25499881,285936,2903,142885
+austria,Austria,Austria,Europe,10,20,9006400,643063,17724,365901
+azerbaijan,Azerbaijan,Azerbaiyán,Europe,31,72,10139175,55894,705,29717
+bahamas,Bahamas,Bahamas,North America,14,141,393248,2458,336,529
+bahrain,Bahrain,Baréin,Asia,20,60,1701583,90707,303,42259
+bangladesh,Bangladesh,Bangladesh,Asia,17,48,164689383,169432,3894,14044
+barbados,Barbados,Barbados,North America,13,138,287371,3060,185,954
+belarus,Belarus,Bielorrusia,Europe,17,37,9449321,315389,2141,55523
+belgium,Belgium,Bélgica,Europe,6,13,11589616,1538687,208917,339598
+belize,Belize,Belice,North America,20,162,397621,591,64,190
+benin,Benin,Benín,Africa,34,142,12123198,2428,43,940
+bhutan,Bhutan,Bután,Asia,40,172,771612,276,0,118
+bolivia,Bolivia,Bolivia,South America,7,88,11673029,30164,1618,2476
+bosnia_and_herzegovina,Bosnia and Herzegovina,Bosnia y Herzegovina,Europe,32,74,3280815,53737,2070,17153
+brazil,Brazil,Brasil,South America,1,11,212559409,2126654,139597,830342
+brunei,Brunei,Brunei,Asia,33,123,,7029,43,4403
+bulgaria,Bulgaria,Bulgaria,Europe,35,80,6948445,44833,1895,6761
+burkina_faso,Burkina Faso,Burkina Faso,Africa,13,97,20903278,23384,1424,12883
+cabo_verde,Cabo Verde,Cabo Verde,Africa,32,137,,3141,55,337
+cambodia,Cambodia,Camboya,Asia,34,126,16718971,5935,0,3813
+cameroon,Cameroon,Camerún,Africa,6,76,26545864,50687,1552,17945
+canada,Canada,Canadá,North America,2,12,37742157,1545750,78584,542571
+central_african_republic,Central African Republic,República Centroafricana,Africa,40,151,4829764,1337,0,221
+chad,Chad,Chad,Africa,35,144,16425859,2369,161,586
+chile,Chile,Chile,South America,4,26,19116209,479551,5761,205053
+china,China,China,Asia,1,4,1439323774,7404577,304676,5427829
+colombia,Colombia,Colombia,South America,5,47,50882884,183383,7692,34888
+congo_(brazzaville),Congo (Brazzaville),Congo (Brazzaville),Africa,25,127,5518092,5737,244,546
+congo_(kinshasa),Congo (Kinshasa),Congo (Kinshasa),Africa,15,107,5518092,15986,1014,1630
+costa_rica,Costa Rica,Costa Rica,North America,7,91,5094114,27618,200,7219
+cote_divoire,Cote d'Ivoire,Costa de Marfil,Africa,8,83,26378275,35118,387,12498
+croatia,Croatia,Croacia,Europe,27,64,4105268,75116,1816,31767
+cuba,Cuba,Cuba,North America,6,82,11326616,41522,1515,15042
+cyprus,Cyprus,Chipre,Europe,38,89,1207361,29834,532,5635
+czechia,Czechia,Chequia,Europe,18,40,,281180,7010,71871
+denmark,Denmark,Dinamarca,Europe,15,33,5792203,325591,14114,174334
+djibouti,Djibouti,Djibouti,Africa,11,92,988002,26492,63,11376
+dominica,Dominica,Dominica,North America,17,158,988002,685,0,318
+dominican_republic,Dominican Republic,República Dominicana,North America,4,45,10847904,198261,8939,28231
+east_timor,East Timor,Timor del Este,Asia,41,174,,0,0,0
+ecuador,Ecuador,Ecuador,South America,3,22,17643060,608671,26813,51466
+egypt,Egypt,Egipto,Africa,2,51,102334403,155630,10450,37277
+el_salvador,El Salvador,El Salvador,North America,10,116,6486201,10832,301,2989
+equatorial_guinea,Equatorial Guinea,Guinea Ecuatorial,Africa,24,125,1402985,6328,34,245
+eritrea,Eritrea,Eritrea,Africa,39,149,3546427,1443,0,409
+estonia,Estonia,Estonia,Europe,29,67,1326539,63826,1489,7501
+eswatini,Eswatini,Eswatini,Africa,36,145,,2073,28,310
+ethiopia,Ethiopia,Etiopía,Africa,28,131,114963583,4204,106,1335
+fiji,Fiji,Fiji,Oceania,3,159,896444,673,0,226
+finland,Finland,Finlandia,Europe,21,50,5540718,161973,5119,68812
+france,France,Francia,Europe,5,7,65273512,4659657,477398,1473585
+gabon,Gabon,Gabón,Africa,23,124,2225728,6885,112,1256
+gambia,Gambia,Gambia,Africa,45,169,2416664,420,48,176
+georgia,Georgia,Georgia,Europe,44,106,3989175,16435,184,4930
+germany,Germany,Alemania,Europe,3,5,83783945,5777333,175038,3472525
+ghana,Ghana,Ghana,Africa,5,75,31072945,50859,453,4802
+greece,Greece,Grecia,Europe,24,59,10423056,101581,4741,23800
+grenada,Grenada,Granada,North America,18,160,112519,668,0,220
+guatemala,Guatemala,Guatemala,North America,9,108,17915567,14099,388,1521
+guernsey,Guernsey,Guernesey,Europe,50,175,,0,0,0
+guinea,Guinea,Guinea,Africa,10,85,13132792,31998,168,7404
+guinea-bissau,Guinea-Bissau,Guinea-Bissau,Africa,26,129,1967998,5075,18,291
+guyana,Guyana,Guayana,South America,11,140,786559,2515,289,497
+haiti,Haiti,Haití,North America,15,143,11402533,2397,185,181
+holy_see,Holy See,Santa Sede,Europe,48,170,,408,0,64
+honduras,Honduras,Honduras,North America,8,95,9904608,25196,1910,1926
+hungary,Hungary,Hungría,Europe,25,62,9660350,79865,7854,13781
+iceland,Iceland,Islandia,Europe,26,63,341250,77637,357,48099
+india,India,India,Asia,5,16,1380004385,896848,29345,211623
+indonesia,Indonesia,Indonesia,Asia,14,39,273523621,285155,22995,37768
+iran,Iran,Irán,Asia,2,8,,3685703,232747,2329193
+iraq,Iraq,Irak,Asia,22,65,40222503,70537,3682,39609
+ireland,Ireland,Irlanda,Europe,12,23,4937796,586154,29104,236853
+israel,Israel,Israel,Asia,8,25,8655541,542492,6182,193406
+italy,Italy,Italia,Europe,2,3,60461828,8059263,1025101,2209323
+jamaica,Jamaica,Jamaica,North America,11,118,2961161,9450,236,1010
+japan,Japan,Japón,Asia,10,29,126476458,414709,11482,73909
+jersey,Jersey,Jersey,Europe,49,176,,0,0,0
+jordan,Jordan,Jordán,Asia,29,103,10203140,18536,295,10325
+kazakhstan,Kazakhstan,Kazajstán,Asia,21,61,18776707,86466,725,21436
+kenya,Kenya,Kenia,Africa,18,112,53771300,12400,531,3226
+"korea,_south","Korea, South",Corea del Sur,Asia,6,19,,669635,11491,365571
+kosovo,Kosovo,Kosovo,Europe,42,102,,19238,484,6129
+kuwait,Kuwait,Kuwait,Asia,19,57,4270563,108026,595,31005
+kyrgyzstan,Kyrgyzstan,Kirguizistán,Asia,27,99,6524191,21434,249,10038
+laos,Laos,Laos,Asia,38,156,,724,0,151
+latvia,Latvia,Letonia,Europe,37,86,1886202,31505,1437,6710
+lebanon,Lebanon,Líbano,Asia,26,87,6825442,30942,952,4955
+liberia,Liberia,Liberia,Africa,30,135,5057677,3662,374,932
+libya,Libya,Libia,Africa,38,147,6871287,1789,64,510
+liechtenstein,Liechtenstein,Liechtenstein,Europe,47,133,6871287,3803,36,1870
+lithuania,Lithuania,Lituania,Europe,33,77,2722291,50012,1316,12541
+luxembourg,Luxembourg,Luxemburgo,Europe,22,52,625976,151085,2977,64589
+madagascar,Madagascar,Madagascar,Africa,27,130,27691019,4867,0,1909
+malaysia,Malaysia,Malasia,Asia,16,44,32365998,230505,3608,121517
+maldives,Maldives,Maldivas,Asia,32,121,540542,8163,19,698
+mali,Mali,Malí,Africa,19,114,20250834,11412,661,3582
+malta,Malta,Malta,Europe,43,105,441539,17128,112,6984
+mauritania,Mauritania,Mauritania,Africa,46,171,4649660,322,41,168
+mauritius,Mauritius,Mauricio,Africa,16,110,1271767,12747,371,6849
+mexico,Mexico,México,North America,3,27,128932753,477172,42488,230621
+moldova,Moldova,Moldavia,Europe,23,58,115021,104346,2844,25311
+monaco,Monaco,Mónaco,Europe,46,132,115021,3895,109,1317
+mongolia,Mongolia,Mongolia,Asia,37,152,3278292,1295,0,282
+montenegro,Montenegro,Montenegro,Europe,45,113,628062,11799,203,4311
+morocco,Morocco,Marruecos,Africa,3,54,36910558,122638,5421,25810
+mozambique,Mozambique,Mozambique,Africa,37,146,31255435,1843,0,335
+namibia,Namibia,Namibia,Africa,43,157,2540916,713,0,235
+nepal,Nepal,Nepal,Asia,35,148,29136808,1638,0,386
+netherlands,Netherlands,Países Bajos,Europe,7,14,17134873,1321015,147242,9144
+new_zealand,New Zealand,Nueva Zelanda,Oceania,2,73,4822233,55855,455,32473
+nicaragua,Nicaragua,Nicaragua,North America,22,168,6624554,440,95,175
+niger,Niger,Níger,Africa,14,98,24206636,22038,864,9071
+nigeria,Nigeria,Nigeria,Africa,7,78,206139587,46410,1435,8384
+north_macedonia,North Macedonia,Macedonia del Norte,Europe,34,79,,45397,2098,14890
+norway,Norway,Noruega,Europe,16,34,5421242,322983,6421,1307
+oman,Oman,Omán,Asia,23,68,5106622,58991,285,13637
+pakistan,Pakistan,Pakistán,Asia,9,28,220892331,447430,9250,100788
+panama,Panama,Panamá,North America,5,46,4314768,185219,5061,11075
+papua_new_guinea,Papua New Guinea,Papúa Nueva Guinea,Oceania,4,173,8947027,223,0,46
+paraguay,Paraguay,Paraguay,South America,10,119,7132530,9382,319,2423
+peru,Peru,Perú,South America,2,17,32971846,883165,24161,278713
+philippines,Philippines,Filipinas,Asia,15,41,109581085,262729,16582,26348
+poland,Poland,Polonia,Europe,13,30,37846605,380727,15982,71051
+portugal,Portugal,Portugal,Europe,9,18,10196707,814615,28446,36488
+qatar,Qatar,Katar,Asia,12,35,2881060,322244,328,33040
+romania,Romania,Rumanía,Europe,14,32,19237682,362064,19509,98708
+russia,Russia,Rusia,Asia,4,10,,2545153,23367,283107
+rwanda,Rwanda,Ruanda,Africa,22,122,12952209,7192,0,2627
+saint_kitts_and_nevis,Saint Kitts and Nevis,Saint Kitts y Nevis,North America,21,164,12952209,545,0,115
+saint_lucia,Saint Lucia,Santa Lucía,North America,19,161,183629,668,0,390
+saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines,San Vicente y las Granadinas,South America,12,166,,500,0,154
+san_marino,San Marino,San Marino,Europe,41,100,198410,20913,1783,2502
+saudi_arabia,Saudi Arabia,Arabia Saudita,Asia,7,24,34813867,546369,4332,93562
+senegal,Senegal,Senegal,Africa,12,93,16743930,25417,216,10064
+serbia,Serbia,Serbia,Europe,20,43,8737370,232014,4686,28989
+seychelles,Seychelles,Seychelles,Africa,44,165,98340,535,0,142
+singapore,Singapore,Singapur,Asia,11,31,5850343,378366,474,39382
+slovakia,Slovakia,Eslovaquia,Europe,36,81,5459643,44586,498,11990
+slovenia,Slovenia,Eslovenia,Europe,30,69,2078932,58211,2705,7029
+somalia,Somalia,Somalia,Africa,17,111,15893219,12585,581,805
+south_africa,South Africa,Sudáfrica,Africa,1,49,59308690,165909,2701,49353
+spain,Spain,España,Europe,1,2,46754783,8907366,843801,3338369
+sri_lanka,Sri Lanka,Sri Lanka,Asia,30,104,21413250,17478,273,4273
+sudan,Sudan,Sudán,Africa,20,117,43849269,10136,718,925
+suriname,Suriname,Surinam,South America,13,167,586634,478,37,214
+sweden,Sweden,Suecia,Europe,11,21,10099270,633010,66240,45275
+switzerland,Switzerland,Suiza,Europe,8,15,8654618,1196184,54733,677183
+syria,Syria,Siria,Asia,36,150,,1377,104,449
+taiwan*,Taiwan*,Taiwán *,Asia,28,101,,20309,288,8550
+tanzania,Tanzania,Tanzania,Africa,21,120,,9101,326,2272
+thailand,Thailand,Tailandia,Asia,18,55,69799978,118365,1744,75341
+timor-leste,Timor-Leste,Timor Oriental,Asia,39,163,1318442,590,0,219
+togo,Togo,Togo,Africa,29,134,8278737,3768,221,1904
+trinidad_and_tobago,Trinidad and Tobago,Trinidad y Tobago,North America,12,128,1399491,5116,317,1598
+tunisia,Tunisia,Túnez,Africa,9,84,11818618,34691,1390,7148
+turkey,Turkey,Turquía,Asia,3,9,84339067,3323548,82143,1027991
+uganda,Uganda,Uganda,Africa,33,139,45741000,2881,0,1119
+ukraine,Ukraine,Ucrania,Europe,19,42,43733759,255478,6566,28060
+united_arab_emirates,United Arab Emirates,Emiratos Árabes Unidos,Asia,13,36,9890400,317893,2511,60889
+united_kingdom,United Kingdom,Reino Unido,Europe,4,6,67886004,4982327,672873,25689
+uruguay,Uruguay,Uruguay,South America,8,96,3473727,23642,432,11711
+us,US,EE.UU.,North America,1,1,,31410986,1618717,3413863
+uzbekistan,Uzbekistan,Uzbekistán,Asia,25,71,33469199,56056,241,22771
+venezuela,Venezuela,Venezuela,South America,9,115,,11377,373,4728
+vietnam,Vietnam,Vietnam,Asia,31,109,,13180,0,7893
+zambia,Zambia,Zambia,Africa,31,136,18383956,3208,93,1623
+zimbabwe,Zimbabwe,Zimbabue,Africa,41,153,14862927,988,131,95
