@@ -1,0 +1,195 @@
+"country_id","region_id","region_name","region_name_es"
+afghanistan,afghanistan,Afghanistan,Afganistán
+albania,albania,Albania,Albania
+algeria,algeria,Algeria,Argelia
+spain,andalucia,Andalucía,Andalucía
+andorra,andorra,Andorra,Andorra
+angola,angola,Angola,Angola
+antigua_and_barbuda,antigua_and_barbuda,Antigua and Barbuda,Antigua y Barbuda
+spain,aragon,Aragón,Aragón
+argentina,argentina,Argentina,Argentina
+armenia,armenia,Armenia,Armenia
+spain,asturias,Asturias,Asturias
+australia,australia,Australia,Australia
+austria,austria,Austria,Austria
+azerbaijan,azerbaijan,Azerbaijan,Azerbaiyán
+bahamas,bahamas,Bahamas,Bahamas
+bahrain,bahrain,Bahrain,Baréin
+spain,baleares,Baleares,Baleares
+bangladesh,bangladesh,Bangladesh,Bangladesh
+barbados,barbados,Barbados,Barbados
+belarus,belarus,Belarus,Bielorrusia
+belgium,belgium,Belgium,Bélgica
+belize,belize,Belize,Belice
+benin,benin,Benin,Benín
+bhutan,bhutan,Bhutan,Bután
+bolivia,bolivia,Bolivia,Bolivia
+bosnia_and_herzegovina,bosnia_and_herzegovina,Bosnia and Herzegovina,Bosnia y Herzegovina
+brazil,brazil,Brazil,Brasil
+brunei,brunei,Brunei,Brunei
+bulgaria,bulgaria,Bulgaria,Bulgaria
+burkina_faso,burkina_faso,Burkina Faso,Burkina Faso
+cabo_verde,cabo_verde,Cabo Verde,Cabo Verde
+cambodia,cambodia,Cambodia,Camboya
+cameroon,cameroon,Cameroon,Camerún
+canada,canada,Canada,Canadá
+spain,canarias,Canarias,Canarias
+spain,cantabria,Cantabria,Cantabria
+spain,castilla-la_mancha,Castilla-La Mancha,Castilla-La Mancha
+spain,castilla_y_leon,Castilla y León,Castilla y León
+spain,cataluna,Cataluña,Cataluña
+central_african_republic,central_african_republic,Central African Republic,República Centroafricana
+spain,ceuta,Ceuta,Ceuta
+chad,chad,Chad,Chad
+chile,chile,Chile,Chile
+china,china,China,China
+colombia,colombia,Colombia,Colombia
+congo_(brazzaville),congo_(brazzaville),Congo (Brazzaville),Congo (Brazzaville)
+congo_(kinshasa),congo_(kinshasa),Congo (Kinshasa),Congo (Kinshasa)
+costa_rica,costa_rica,Costa Rica,Costa Rica
+cote_divoire,cote_divoire,Cote d'Ivoire,Costa de Marfil
+croatia,croatia,Croatia,Croacia
+cuba,cuba,Cuba,Cuba
+cyprus,cyprus,Cyprus,Chipre
+czechia,czechia,Czechia,Chequia
+spain,c_valenciana,C. Valenciana,C. Valenciana
+denmark,denmark,Denmark,Dinamarca
+djibouti,djibouti,Djibouti,Djibouti
+dominica,dominica,Dominica,Dominica
+dominican_republic,dominican_republic,Dominican Republic,República Dominicana
+east_timor,east_timor,East Timor,Timor del Este
+ecuador,ecuador,Ecuador,Ecuador
+egypt,egypt,Egypt,Egipto
+el_salvador,el_salvador,El Salvador,El Salvador
+equatorial_guinea,equatorial_guinea,Equatorial Guinea,Guinea Ecuatorial
+eritrea,eritrea,Eritrea,Eritrea
+estonia,estonia,Estonia,Estonia
+eswatini,eswatini,Eswatini,Eswatini
+ethiopia,ethiopia,Ethiopia,Etiopía
+spain,extremadura,Extremadura,Extremadura
+fiji,fiji,Fiji,Fiji
+finland,finland,Finland,Finlandia
+france,france,France,Francia
+gabon,gabon,Gabon,Gabón
+spain,galicia,Galicia,Galicia
+gambia,gambia,Gambia,Gambia
+georgia,georgia,Georgia,Georgia
+germany,germany,Germany,Alemania
+ghana,ghana,Ghana,Ghana
+greece,greece,Greece,Grecia
+grenada,grenada,Grenada,Granada
+guatemala,guatemala,Guatemala,Guatemala
+guernsey,guernsey,Guernsey,Guernesey
+guinea,guinea,Guinea,Guinea
+guinea-bissau,guinea-bissau,Guinea-Bissau,Guinea-Bissau
+guyana,guyana,Guyana,Guayana
+haiti,haiti,Haiti,Haití
+holy_see,holy_see,Holy See,Santa Sede
+honduras,honduras,Honduras,Honduras
+hungary,hungary,Hungary,Hungría
+iceland,iceland,Iceland,Islandia
+india,india,India,India
+indonesia,indonesia,Indonesia,Indonesia
+iran,iran,Iran,Irán
+iraq,iraq,Iraq,Irak
+ireland,ireland,Ireland,Irlanda
+israel,israel,Israel,Israel
+italy,italy,Italy,Italia
+jamaica,jamaica,Jamaica,Jamaica
+japan,japan,Japan,Japón
+jersey,jersey,Jersey,Jersey
+jordan,jordan,Jordan,Jordán
+kazakhstan,kazakhstan,Kazakhstan,Kazajstán
+kenya,kenya,Kenya,Kenia
+"korea,_south","korea,_south","Korea, South",Corea del Sur
+kosovo,kosovo,Kosovo,Kosovo
+kuwait,kuwait,Kuwait,Kuwait
+kyrgyzstan,kyrgyzstan,Kyrgyzstan,Kirguizistán
+laos,laos,Laos,Laos
+latvia,latvia,Latvia,Letonia
+spain,la_rioja,La Rioja,La Rioja
+lebanon,lebanon,Lebanon,Líbano
+liberia,liberia,Liberia,Liberia
+libya,libya,Libya,Libia
+liechtenstein,liechtenstein,Liechtenstein,Liechtenstein
+lithuania,lithuania,Lithuania,Lituania
+luxembourg,luxembourg,Luxembourg,Luxemburgo
+madagascar,madagascar,Madagascar,Madagascar
+spain,madrid,Madrid,Madrid
+malaysia,malaysia,Malaysia,Malasia
+maldives,maldives,Maldives,Maldivas
+mali,mali,Mali,Malí
+malta,malta,Malta,Malta
+mauritania,mauritania,Mauritania,Mauritania
+mauritius,mauritius,Mauritius,Mauricio
+spain,melilla,Melilla,Melilla
+mexico,mexico,Mexico,México
+moldova,moldova,Moldova,Moldavia
+monaco,monaco,Monaco,Mónaco
+mongolia,mongolia,Mongolia,Mongolia
+montenegro,montenegro,Montenegro,Montenegro
+morocco,morocco,Morocco,Marruecos
+mozambique,mozambique,Mozambique,Mozambique
+spain,murcia,Murcia,Murcia
+namibia,namibia,Namibia,Namibia
+spain,navarra,Navarra,Navarra
+nepal,nepal,Nepal,Nepal
+netherlands,netherlands,Netherlands,Países Bajos
+new_zealand,new_zealand,New Zealand,Nueva Zelanda
+nicaragua,nicaragua,Nicaragua,Nicaragua
+niger,niger,Niger,Níger
+nigeria,nigeria,Nigeria,Nigeria
+north_macedonia,north_macedonia,North Macedonia,Macedonia del Norte
+norway,norway,Norway,Noruega
+oman,oman,Oman,Omán
+spain,pais_vasco,País Vasco,País Vasco
+pakistan,pakistan,Pakistan,Pakistán
+panama,panama,Panama,Panamá
+papua_new_guinea,papua_new_guinea,Papua New Guinea,Papúa Nueva Guinea
+paraguay,paraguay,Paraguay,Paraguay
+peru,peru,Peru,Perú
+philippines,philippines,Philippines,Filipinas
+poland,poland,Poland,Polonia
+portugal,portugal,Portugal,Portugal
+qatar,qatar,Qatar,Katar
+romania,romania,Romania,Rumanía
+russia,russia,Russia,Rusia
+rwanda,rwanda,Rwanda,Ruanda
+saint_kitts_and_nevis,saint_kitts_and_nevis,Saint Kitts and Nevis,Saint Kitts y Nevis
+saint_lucia,saint_lucia,Saint Lucia,Santa Lucía
+saint_vincent_and_the_grenadines,saint_vincent_and_the_grenadines,Saint Vincent and the Grenadines,San Vicente y las Granadinas
+san_marino,san_marino,San Marino,San Marino
+saudi_arabia,saudi_arabia,Saudi Arabia,Arabia Saudita
+senegal,senegal,Senegal,Senegal
+serbia,serbia,Serbia,Serbia
+seychelles,seychelles,Seychelles,Seychelles
+singapore,singapore,Singapore,Singapur
+slovakia,slovakia,Slovakia,Eslovaquia
+slovenia,slovenia,Slovenia,Eslovenia
+somalia,somalia,Somalia,Somalia
+south_africa,south_africa,South Africa,Sudáfrica
+sri_lanka,sri_lanka,Sri Lanka,Sri Lanka
+sudan,sudan,Sudan,Sudán
+suriname,suriname,Suriname,Surinam
+sweden,sweden,Sweden,Suecia
+switzerland,switzerland,Switzerland,Suiza
+syria,syria,Syria,Siria
+taiwan*,taiwan*,Taiwan*,Taiwán *
+tanzania,tanzania,Tanzania,Tanzania
+thailand,thailand,Thailand,Tailandia
+timor-leste,timor-leste,Timor-Leste,Timor Oriental
+togo,togo,Togo,Togo
+trinidad_and_tobago,trinidad_and_tobago,Trinidad and Tobago,Trinidad y Tobago
+tunisia,tunisia,Tunisia,Túnez
+turkey,turkey,Turkey,Turquía
+uganda,uganda,Uganda,Uganda
+ukraine,ukraine,Ukraine,Ucrania
+united_arab_emirates,united_arab_emirates,United Arab Emirates,Emiratos Árabes Unidos
+united_kingdom,united_kingdom,United Kingdom,Reino Unido
+uruguay,uruguay,Uruguay,Uruguay
+us,us,US,EE.UU.
+uzbekistan,uzbekistan,Uzbekistan,Uzbekistán
+venezuela,venezuela,Venezuela,Venezuela
+vietnam,vietnam,Vietnam,Vietnam
+zambia,zambia,Zambia,Zambia
+zimbabwe,zimbabwe,Zimbabwe,Zimbabue
