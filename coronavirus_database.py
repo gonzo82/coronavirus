@@ -3,6 +3,8 @@ from coronavirus_db_connection import *
 from coronavirus_qslSentence import (
     SELECT_CORONAVIRUS_STATEMENT,
     SELECT_GEOGRAPHY_STATEMENT,
+    SELECT_REGION_STATEMENT,
+    SELECT_SPAIN_STATEMENT,
     INSERT_STATEMENT,
     INSERT_COUNTRY_STATEMENT,
     INSERT_REGION_STATEMENT,
@@ -97,6 +99,26 @@ class Database:
             gsheet_list.append(list(row))
 
         return gsheet_list
+
+    def coronavirus_region_list(self, region):
+        self.cursor.execute(SELECT_REGION_STATEMENT.format(region=region))
+        result = self.cursor.fetchall()
+
+        column_names = list()
+
+        for i in self.cursor.description:
+            column_names.append(i[0])
+        return result, column_names
+
+    def coronavirus_spain_list(self, region):
+        self.cursor.execute(SELECT_SPAIN_STATEMENT)
+        result = self.cursor.fetchall()
+
+        column_names = list()
+
+        for i in self.cursor.description:
+            column_names.append(i[0])
+        return result, column_names
 
     def update_rank(self):
         try:

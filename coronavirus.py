@@ -6,10 +6,15 @@ from coronavirus_gsheet import Gsheet
 
 
 if __name__ == '__main__':
-    to_dt = datetime.datetime.now()
+    today = datetime.datetime.now()
+    to_dt = today - datetime.timedelta(days=1)
     from_dt = to_dt - datetime.timedelta(days=2)
     to_date = datetime.date.strftime(to_dt, "%Y-%m-%d")
     from_date = datetime.date.strftime(from_dt, "%Y-%m-%d")
+    print(f'{to_dt}, {from_dt}')
+
+    # from_date = '2020-05-21'
+    # to_date = '2020-05-22'
     database = Database()
     json = Json()
     gsheet = Gsheet()

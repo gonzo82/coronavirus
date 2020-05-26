@@ -64,3 +64,15 @@ SELECT_CORONAVIRUS_STATEMENT = 'select ' \
 
 SELECT_GEOGRAPHY_STATEMENT = 'select * from coronavirus_geography ' \
                              'order by country_id, region_id'
+
+SELECT_REGION_STATEMENT = "select country_id, region_id, subregion_id, date, " \
+                          "today_confirmed, today_new_confirmed, " \
+                          "today_deaths, today_new_deaths, " \
+                          "today_recovered, today_new_recovered " \
+                          "from coronavirus " \
+                          "where region_id = '{region}'" # and date >= '2020-05-10'"
+
+SELECT_SPAIN_STATEMENT = "select country_id, region_id, today_confirmed, today_deaths, today_recovered, " \
+                         "today_new_confirmed, today_new_deaths, today_new_recovered " \
+                         "from coronavirus " \
+                         "where date = (select max(caux.date) from coronavirus caux) and country_id = 'spain'"
