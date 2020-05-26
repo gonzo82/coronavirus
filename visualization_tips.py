@@ -49,6 +49,8 @@ def plot_example_1_resize(df):
     plt.xlabel('Dates')
     plt.ylabel('Deaths')
 
+    plt.savefig(fname='corona_1.png')
+
     plt.show()
 
 
@@ -67,6 +69,8 @@ def plot_example_2_1_subplot(df):
     ax2 = plt.subplot(1, 2, 2)
     ax2.plot(X, Y2)
     ax2.set_title('Plot 2')
+
+    plt.savefig(fname='corona_21.png')
 
     plt.show()
 
@@ -92,6 +96,8 @@ def plot_example_2_2_subplot(df):
 
     axes[1][1].plot(X, Y4)
     axes[1][1].set_title('Plot 4')
+
+    plt.savefig(fname='corona_22.png')
 
     plt.show()
 
@@ -123,6 +129,8 @@ def plot_example_2_3_subplot(df):
 
     fig.tight_layout()
 
+    plt.savefig(fname='corona_23.png')
+
     plt.show()
 
 
@@ -145,6 +153,8 @@ def plot_example_3_1_annotate(df):
 
     for bar, t in zip(graph, Y1):
         plt.text(bar.get_x() + bar.get_width() / 2.0, bar.get_height(), '%.0f' % t, ha='center', va='bottom')
+
+    plt.savefig(fname='corona_31.png')
 
     plt.show()
 
@@ -178,6 +188,8 @@ def plot_example_3_2_annotate(df):
                  xytext=(X[30], Y2[30] + 2000)
                  )
 
+    plt.savefig(fname='corona_32.png')
+
     plt.show()
 
 
@@ -204,6 +216,8 @@ def plot_example_4_axis(df):
     plt.xlim(len(X)-60, len(X))
     plt.ylim(1, 500)
 
+    plt.savefig(fname='corona_4.png')
+
     plt.show()
 
 
@@ -229,6 +243,8 @@ def plot_example_5_interactive(df):
     # changing axes limits
     plt.xlim(len(X)-60, len(X))
     plt.ylim(1, 500)
+
+    plt.savefig(fname='corona_5.png')
 
     plt.show()
 
@@ -260,6 +276,9 @@ def plot_example_6_group_bar(df):
                  ha='center', va='bottom')
 
     plt.legend()
+
+    plt.savefig(fname='corona_6.png')
+
     plt.show()
 
 
@@ -297,6 +316,9 @@ def plot_example_7_ticks(df):
                  ha='center', va='bottom')
 
     plt.legend()
+
+    plt.savefig(fname='corona_7.png')
+
     plt.show()
 
 
@@ -335,6 +357,8 @@ def plot_example_8_legends(df):
 
     # modifying legend
     plt.legend(loc='upper center', ncol=2, frameon=False)
+
+    plt.savefig(fname='corona_8.png')
 
     plt.show()
 
@@ -380,6 +404,8 @@ def plot_example_9_1_watermarks(df):
     # modifying legend
     plt.legend(loc='upper center', ncol=2, frameon=False)
 
+    plt.savefig(fname='corona_91.png')
+
     plt.show()
 
 
@@ -423,7 +449,7 @@ def plot_example_9_2_watermarks_and_save(df):
     # modifying legend
     plt.legend(loc='upper center', ncol=2, frameon=False)
 
-    plt.savefig(fname='corona.png')
+    plt.savefig(fname='corona_9.png')
 
     plt.show()
 
@@ -456,17 +482,17 @@ if __name__ == '__main__':
 
     # test_function()
 
-    # plot_example_1_resize(df)
-    # plot_example_2_1_subplot(df)
-    # plot_example_2_2_subplot(df)
-    # plot_example_2_3_subplot(df)
-    # plot_example_3_1_annotate(df_spain)
-    # plot_example_3_2_annotate(df)
-    # plot_example_4_axis(df)
-    # plot_example_5_interactive(df)
-    # plot_example_6_group_bar(df_spain)
-    # plot_example_7_ticks(df_spain)
-    # plot_example_8_legends(df_spain)
-    # plot_example_9_1_watermarks(df_spain)
+    plot_example_1_resize(df)
+    plot_example_2_1_subplot(df)
+    plot_example_2_2_subplot(df)
+    plot_example_2_3_subplot(df)
+    plot_example_3_1_annotate(df_spain)
+    plot_example_3_2_annotate(df)
+    plot_example_4_axis(df)
+    plot_example_5_interactive(df)
+    plot_example_6_group_bar(df_spain)
+    plot_example_7_ticks(df_spain)
+    plot_example_8_legends(df_spain)
+    plot_example_9_1_watermarks(df_spain)
     plot_example_9_2_watermarks_and_save(df_spain)
 
